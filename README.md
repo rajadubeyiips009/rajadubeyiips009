@@ -3,7 +3,7 @@
 ### 🎓 Integrated MCA Student | 💻 Programmer | 🚀 Aspiring Software Developer
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYP1p1MmIJ_JLzDv18Tx9tdxnLpF02TgJaLYOD0EeQoNjNwHSptASax2o&s=10" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlQ9Ka30VrksJfocbo-sn_EwGKLO1foEkpwLzNyghF2Q&s=10" />
 </p>
 
 <p align="center">
