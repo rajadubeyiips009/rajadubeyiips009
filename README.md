@@ -3,7 +3,7 @@
 ### 🎓 Integrated MCA Student | 💻 Programmer | 🚀 Aspiring Software Developer
 
 <p align="center">
-  <img src="xyz.pvt" />
+  <img src="xyz.pvt"alt="asdfghjk" />
 </p>
 
 <p align="centre">
