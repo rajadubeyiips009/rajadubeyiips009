@@ -6,7 +6,7 @@
   <img src="xyz.pvt" />
 </p>
 
-<p align="this is panda image">
+<p align="centre">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Profile Visitors" />
 </p>
 
