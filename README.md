@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Raja Dubey]
 
 ### 🎓 Integrated MCA Student | 💻 Programmer | 🚀 Aspiring Software Developer
 
